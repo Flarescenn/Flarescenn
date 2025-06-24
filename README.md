@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+It's me Naman Bakshi aka Flarescenn!
+[![Top Langs](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=flarescenn)](https://github.com/Ruberald/better-readme-stats)
 <!--
 **Flarescenn/Flarescenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
